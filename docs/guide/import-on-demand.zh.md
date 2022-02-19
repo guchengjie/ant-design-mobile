@@ -21,7 +21,7 @@ import 'antd-mobile/es/global'
 ```js
 module.exports = {
   "plugins": [
-    ["import", { "libraryName": "antd-mobile", "libraryDirectory": "es/components", "style": false}]
+    ["import", { "libraryName": "antd-mobile", "libraryDirectory": "es", "style": false}]
   ]
 }
 ```
